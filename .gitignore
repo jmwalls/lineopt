@@ -1,0 +1,10 @@
+data-cache/
+
+*.swp
+
+.ipynb_checkpoints
+__pycache__
+
+*.tar.gz
+*.gpkg
+*.parquet
